@@ -1,0 +1,21 @@
+.color {
+    position: relative;
+    padding: 30px;
+    width: 500px;
+    left: 0;
+    right: 0;
+    margin: 30px auto;
+    background-color: antiquewhite;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
